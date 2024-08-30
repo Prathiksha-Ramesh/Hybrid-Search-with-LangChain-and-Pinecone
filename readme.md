@@ -3,6 +3,7 @@
 This project demonstrates the integration of LangChain, Pinecone, and Hugging Face embeddings to create a hybrid search system. The system utilizes dense vector embeddings and sparse matrix representations (like BM25) to enable efficient and accurate retrieval of text data.
 
 ## Project Structure
+````
 project-directory/ 
 │ ├── main.py 
 ├── bm25_values.json 
@@ -11,6 +12,8 @@ project-directory/
 ├── README.md 
 ├── LICENSE 
 └── .gitignore
+
+````
 
 
 ## Getting Started
